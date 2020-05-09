@@ -27,7 +27,7 @@
 \- [Alexa Skill building documentation](https://developer.amazon.com/docs/custom-skills/request-and-response-json-reference.html&sc_channel=Referrals&sc_campaign=VirtualHack_HE_Feb&sc_publisher=HE&sc_content=VirtualHackPromo&sc_funnel=Discover&sc_country=IN&sc_medium=HEPromos&sc_segment=IndiaDevs&sc_trackingcode=REF_IN_FebHack_HE) – learn more technicalities of skill building   
 \- [Alexa developer forum](https://forums.developer.amazon.com/index.html) – hosted by Amazon  
 
-**Tools**  
+**CLI**  
 \- [Alexa Skills Kit Command Line Interface (ASK CLI)](https://developer.amazon.com/docs/smapi/quick-start-alexa-skills-kit-command-line-interface.html) - The Alexa Skills Kit Command Line Interface (ASK CLI) is a tool for you to manage your Alexa skills and related resources, such as AWS Lambda functions. With ASK CLI, you have access to the Skill Management API, which allows you to manage Alexa skills programmatically from the command line.  
 \- [Bespoken CLI (Develop, Debug, and Test Live on Your Laptop)](https://bespoken.io/)  
 
@@ -40,8 +40,4 @@
 \- [Alexa Skills Store (UK)](https://www.amazon.co.uk/alexa-skills/)  
 \- [Alexa Skills Store (Germany)](https://www.amazon.de/alexa-skills/)  
 \- [Alexa Skills Store (India)](https://amazon.in/skills)  
-
-**Developer Perks**  
-\- [AWS Promotional Credits](https://developer.amazon.com/alexa-skills-kit/alexa-aws-credits)  
-\- [Free Tshirts/hoodies/Echo dots](https://developer.amazon.com/alexa-skills-kit/alexa-developer-skill-promotion) 
 
