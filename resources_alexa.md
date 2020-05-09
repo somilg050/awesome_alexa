@@ -26,8 +26,6 @@
 \- [Submit Your Skill for Certification](https://developer.amazon.com/docs/custom-skills/submit-an-alexa-skill-for-certification.html?&sc_channel=Referrals&sc_campaign=VirtualHack_HE_Feb&sc_publisher=HE&sc_content=VirtualHackPromo&sc_funnel=Discover&sc_country=IN&sc_medium=HEPromos&sc_segment=IndiaDevs&sc_trackingcode=REF_IN_FebHack_HE) – learn the steps and requirements to get your skill launched  
 \- [Alexa Skill building documentation](https://developer.amazon.com/docs/custom-skills/request-and-response-json-reference.html&sc_channel=Referrals&sc_campaign=VirtualHack_HE_Feb&sc_publisher=HE&sc_content=VirtualHackPromo&sc_funnel=Discover&sc_country=IN&sc_medium=HEPromos&sc_segment=IndiaDevs&sc_trackingcode=REF_IN_FebHack_HE) – learn more technicalities of skill building   
 \- [Alexa developer forum](https://forums.developer.amazon.com/index.html) – hosted by Amazon  
-\- [Alexa Skills Store US](https://www.amazon.com/b?node=13727921011) – check out existing skills in the US skill store, new arrivals, skill categories, and customer reviews.  
-\- [Alexa Skills Store IN](https://amazon.in/skills) – check out existing skills in the IN skill store, new arrivals, skill categories, and customer reviews.
 
 **Tools**  
 \- [Alexa Skills Kit Command Line Interface (ASK CLI)](https://developer.amazon.com/docs/smapi/quick-start-alexa-skills-kit-command-line-interface.html) - The Alexa Skills Kit Command Line Interface (ASK CLI) is a tool for you to manage your Alexa skills and related resources, such as AWS Lambda functions. With ASK CLI, you have access to the Skill Management API, which allows you to manage Alexa skills programmatically from the command line.  
