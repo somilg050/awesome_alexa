@@ -2,8 +2,6 @@
 
 [**Alexa Skills Kit**](https://developer.amazon.com/en-in/alexa-skills-kit?&sc_channel=Referrals&sc_campaign=VirtualHack_HE_Feb&sc_publisher=HE&sc_content=VirtualHackPromo&sc_funnel=Discover&sc_country=IN&sc_medium=HEPromos&sc_segment=IndiaDevs&sc_trackingcode=REF_IN_ASKINLandingPage_FebHack_HE) \- All you need to know about building skills for Alexa
 
-[**Slack Channel for Support**](https://join.slack.com/t/alexadevsindia/shared_invite/enQtMzE3MDk0OTUzNjAyLWI4ODdjZGQ2NzVmMjA5ZWY2OGYxMDYzZWE0NjllZmM2NGI3NGJhNDE0MzdjYjkxNDEwMGMzYjUzODM0OWJkY2E) \- Join Alexa Devs India Slack channel to get your queries answered
-
 **Videos & Tutorials**  
 \- [Training Course - Cakewalk Alexa skill](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/get-deeper/tutorials-code-samples/build-an-engaging-alexa-skill) \- Training Course: Build an Engaging Alexa Skill  
 \- [Alexa developers YouTube Channel](https://www.youtube.com/AlexaDevelopers) \- watch Alexa devs videos to understand more about Alexa  
@@ -29,9 +27,6 @@
 \- [Alexa developer forum](https://forums.developer.amazon.com/spaces/165/index.html?&sc_channel=Referrals&sc_campaign=VirtualHack_HE_Feb&sc_publisher=HE&sc_content=VirtualHackPromo&sc_funnel=Discover&sc_country=IN&sc_medium=HEPromos&sc_segment=IndiaDevs&sc_trackingcode=REF_IN_FebHack_HE) – hosted by Amazon  
 \- [Alexa Skills Store US](https://www.amazon.com/b?node=13727921011) – check out existing skills in the US skill store, new arrivals, skill categories, and customer reviews.  
 \- [Alexa Skills Store IN](https://amazon.in/skills) – check out existing skills in the IN skill store, new arrivals, skill categories, and customer reviews.
-
-**Programming Languages & SDKs**  
-\- **JavaScript:** [Alexa Skills Kit SDK for JavaScript / Node.js (Lambda)](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs)
 
 **Tools**  
 \- [Alexa Skills Kit Command Line Interface (ASK CLI)](https://developer.amazon.com/docs/smapi/quick-start-alexa-skills-kit-command-line-interface.html)  
