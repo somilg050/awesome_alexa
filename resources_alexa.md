@@ -1,6 +1,8 @@
-# Awesome Alexa [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Everything You need to know for Alexa Development[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [**Alexa Skills Kit**](https://developer.amazon.com/en-in/alexa-skills-kit?&sc_channel=Referrals&sc_campaign=VirtualHack_HE_Feb&sc_publisher=HE&sc_content=VirtualHackPromo&sc_funnel=Discover&sc_country=IN&sc_medium=HEPromos&sc_segment=IndiaDevs&sc_trackingcode=REF_IN_ASKINLandingPage_FebHack_HE) \- All you need to know about building skills for Alexa
+
+[**Training Course to get started**](alexa.design/cakewalk) \- Training Course: Build an Engaging Alexa Skill
 
 [**Slack Channel for Support**](https://join.slack.com/t/alexadevsindia/shared_invite/enQtMzE3MDk0OTUzNjAyLWI4ODdjZGQ2NzVmMjA5ZWY2OGYxMDYzZWE0NjllZmM2NGI3NGJhNDE0MzdjYjkxNDEwMGMzYjUzODM0OWJkY2E) \- Join Alexa Devs India Slack channel to get your queries answered
 
@@ -11,9 +13,7 @@
 \- [Webinar Recordings](https://developer.amazon.com/alexa-skills-kit/webinars?&sc_channel=Referrals&sc_campaign=VirtualHack_HE_Feb&sc_publisher=HE&sc_content=VirtualHackPromo&sc_funnel=Discover&sc_country=IN&sc_medium=HEPromos&sc_segment=IndiaDevs&sc_trackingcode=REF_IN_FebHack_HE) – learn by watching webinar recordings  
 \- [YouTube video: making skills with Node and AWS Lambda](https://www.youtube.com/watch?v=zt9WdE5kR6g) - Alexa 101  
 \- [Dabble Lab free Alexa course](https://learn.dabblelab.com/) 
-\- [Dabble Lab Youtube Channel](https://www.youtube.com/channel/UCfY-LopSxGekh9LruXLjffg)  
-\- [Jamie's Dev Shed](https://www.youtube.com/playlist?list=PL4iXGvrBx4ZMPOMDYsbHwjZdaByEL2W2y) - learn to develop for Echo Show     
-\- [Alexa Development in Hindi](https://www.youtube.com/playlist?list=PLeGnn0qRry39iqd3w44KL41eGBHMod-8u) - Building Amazon Alexa Skills explained in Hindi
+\- [Dabble Lab Youtube Channel](https://www.youtube.com/channel/UCfY-LopSxGekh9LruXLjffg)     
 
 **Github Repository**  
 \- [Github Repository](https://github.com/alexa) – glance through templates for Alexa skills  
