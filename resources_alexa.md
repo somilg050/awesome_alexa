@@ -4,9 +4,8 @@
 
 [**Slack Channel for Support**](https://join.slack.com/t/alexadevsindia/shared_invite/enQtMzE3MDk0OTUzNjAyLWI4ODdjZGQ2NzVmMjA5ZWY2OGYxMDYzZWE0NjllZmM2NGI3NGJhNDE0MzdjYjkxNDEwMGMzYjUzODM0OWJkY2E) \- Join Alexa Devs India Slack channel to get your queries answered
 
-**Videos & Tutorials**
-
-\- [Training Course - Cakewalk Alexa skill](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/get-deeper/tutorials-code-samples/build-an-engaging-alexa-skill) \- Training Course: Build an Engaging Alexa Skill
+**Videos & Tutorials**  
+\- [Training Course - Cakewalk Alexa skill](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/get-deeper/tutorials-code-samples/build-an-engaging-alexa-skill) \- Training Course: Build an Engaging Alexa Skill  
 \- [Alexa developers YouTube Channel](https://www.youtube.com/AlexaDevelopers) \- watch Alexa devs videos to understand more about Alexa  
 \- [Tutorials - Codecademy](https://alexa.design/codecademy) \- watch tutorials from Codecademy and learn to build a skill  
 \- [Training Courses](https://developer.amazon.com/alexa-skills-kit/alexa-skills-developer-training?&sc_channel=Referrals&sc_campaign=VirtualHack_HE_Feb&sc_publisher=HE&sc_content=VirtualHackPromo&sc_funnel=Discover&sc_country=IN&sc_medium=HEPromos&sc_segment=IndiaDevs&sc_trackingcode=REF_IN_FebHack_HE) – learn by watching Alexa devs training courses  
@@ -16,8 +15,9 @@
 \- [Dabble Lab Youtube Channel](https://www.youtube.com/channel/UCfY-LopSxGekh9LruXLjffg)     
 
 **Github Repository**  
-\- [Github Repository](https://github.com/alexa) – glance through templates for Alexa skills  
-\- [Alexa Cookbook](https://github.com/alexa/alexa-cookbook) – short code samples that show you how to add features to an Alexa skill
+\- [Github Repository](https://github.com/alexa) – Glance through templates for Alexa skills.  
+\- [Alexa Skills Kit SDK for Node.js](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs) – The Alexa Skills Kit SDK for Node.js helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code.  
+\- [Alexa Cookbook](https://github.com/alexa/alexa-cookbook) – Short code snippets that show you how to add features to an Alexa skill.
 
 **Skill Building Support**  
 \- [Alexa Blog](https://alexa.design/blog) – learn more about Alexa and skill building from the blogs  
