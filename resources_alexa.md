@@ -6,8 +6,7 @@
 
 **Videos & Tutorials**
 
-\- [Training Course - Cakewalk Alexa skill](alexa.design/cakewalk) \- Training Course: Build an Engaging Alexa Skill
-
+\- [Training Course - Cakewalk Alexa skill](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/get-deeper/tutorials-code-samples/build-an-engaging-alexa-skill) \- Training Course: Build an Engaging Alexa Skill
 \- [Alexa developers YouTube Channel](https://www.youtube.com/AlexaDevelopers) \- watch Alexa devs videos to understand more about Alexa  
 \- [Tutorials - Codecademy](https://alexa.design/codecademy) \- watch tutorials from Codecademy and learn to build a skill  
 \- [Training Courses](https://developer.amazon.com/alexa-skills-kit/alexa-skills-developer-training?&sc_channel=Referrals&sc_campaign=VirtualHack_HE_Feb&sc_publisher=HE&sc_content=VirtualHackPromo&sc_funnel=Discover&sc_country=IN&sc_medium=HEPromos&sc_segment=IndiaDevs&sc_trackingcode=REF_IN_FebHack_HE) – learn by watching Alexa devs training courses  
