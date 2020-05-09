@@ -2,11 +2,12 @@
 
 [**Alexa Skills Kit**](https://developer.amazon.com/en-in/alexa-skills-kit?&sc_channel=Referrals&sc_campaign=VirtualHack_HE_Feb&sc_publisher=HE&sc_content=VirtualHackPromo&sc_funnel=Discover&sc_country=IN&sc_medium=HEPromos&sc_segment=IndiaDevs&sc_trackingcode=REF_IN_ASKINLandingPage_FebHack_HE) \- All you need to know about building skills for Alexa
 
-[**Training Course to get started**](alexa.design/cakewalk) \- Training Course: Build an Engaging Alexa Skill
-
 [**Slack Channel for Support**](https://join.slack.com/t/alexadevsindia/shared_invite/enQtMzE3MDk0OTUzNjAyLWI4ODdjZGQ2NzVmMjA5ZWY2OGYxMDYzZWE0NjllZmM2NGI3NGJhNDE0MzdjYjkxNDEwMGMzYjUzODM0OWJkY2E) \- Join Alexa Devs India Slack channel to get your queries answered
 
-**Videos & Tutorials**  
+**Videos & Tutorials**
+
+\- [Training Course - Cakewalk Alexa skill](alexa.design/cakewalk) \- Training Course: Build an Engaging Alexa Skill
+
 \- [Alexa developers YouTube Channel](https://www.youtube.com/AlexaDevelopers) \- watch Alexa devs videos to understand more about Alexa  
 \- [Tutorials - Codecademy](https://alexa.design/codecademy) \- watch tutorials from Codecademy and learn to build a skill  
 \- [Training Courses](https://developer.amazon.com/alexa-skills-kit/alexa-skills-developer-training?&sc_channel=Referrals&sc_campaign=VirtualHack_HE_Feb&sc_publisher=HE&sc_content=VirtualHackPromo&sc_funnel=Discover&sc_country=IN&sc_medium=HEPromos&sc_segment=IndiaDevs&sc_trackingcode=REF_IN_FebHack_HE) – learn by watching Alexa devs training courses  
