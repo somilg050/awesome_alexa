@@ -4,6 +4,7 @@
 
 **Videos & Tutorials**  
 \- [Training Course - Cakewalk Alexa skill](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/get-deeper/tutorials-code-samples/build-an-engaging-alexa-skill) \- Training Course: Build an Engaging Alexa Skill  
+\- [Twitch - Amazon Alexa](http://twitch.tv/amazonalexa/) \- follow twitch channel for new alexa updates and live tutorials  
 \- [Alexa developers YouTube Channel](https://www.youtube.com/AlexaDevelopers) \- watch Alexa devs videos to understand more about Alexa  
 \- [Tutorials - Codecademy](https://alexa.design/codecademy) \- watch tutorials from Codecademy and learn to build a skill  
 \- [Training Courses](https://developer.amazon.com/alexa-skills-kit/alexa-skills-developer-training?&sc_channel=Referrals&sc_campaign=VirtualHack_HE_Feb&sc_publisher=HE&sc_content=VirtualHackPromo&sc_funnel=Discover&sc_country=IN&sc_medium=HEPromos&sc_segment=IndiaDevs&sc_trackingcode=REF_IN_FebHack_HE) – learn by watching Alexa devs training courses  
@@ -22,16 +23,14 @@
 \- [Voice Design](https://developer.amazon.com/designing-for-voice/) – learn how to going about designing for voice  
 \- [Test Your Skill](https://developer.amazon.com/blogs/alexa/post/577069bd-d9f9-439a-b4bf-3b0495e3d24b/announcing-new-test-simulator-beta-for-alexa-skills&sc_channel=Referrals&sc_campaign=VirtualHack_HE_Feb&sc_publisher=HE&sc_content=VirtualHackPromo&sc_funnel=Discover&sc_country=IN&sc_medium=HEPromos&sc_segment=IndiaDevs&sc_trackingcode=REF_IN_FebHack_HE) – read how you can test a new skill  
 \- [Submit Your Skill for Certification](https://developer.amazon.com/docs/custom-skills/submit-an-alexa-skill-for-certification.html?&sc_channel=Referrals&sc_campaign=VirtualHack_HE_Feb&sc_publisher=HE&sc_content=VirtualHackPromo&sc_funnel=Discover&sc_country=IN&sc_medium=HEPromos&sc_segment=IndiaDevs&sc_trackingcode=REF_IN_FebHack_HE) – learn the steps and requirements to get your skill launched  
-\- [Alexa Skill building documentation](https://developer.amazon.com/docs/custom-skills/request-and-response-json-reference.html&sc_channel=Referrals&sc_campaign=VirtualHack_HE_Feb&sc_publisher=HE&sc_content=VirtualHackPromo&sc_funnel=Discover&sc_country=IN&sc_medium=HEPromos&sc_segment=IndiaDevs&sc_trackingcode=REF_IN_FebHack_HE) – learn more technicalities of skill building  
-\- [Mix Master Kid Skill Template](https://github.com/alexa/alexa-cookbook/tree/master/games/MixMaster) – practice key design principles including progressive prompting to help guide kids through interactions, and leveling to give kids a sense of accomplishment  
-\- [Alexa developer forum](https://forums.developer.amazon.com/spaces/165/index.html?&sc_channel=Referrals&sc_campaign=VirtualHack_HE_Feb&sc_publisher=HE&sc_content=VirtualHackPromo&sc_funnel=Discover&sc_country=IN&sc_medium=HEPromos&sc_segment=IndiaDevs&sc_trackingcode=REF_IN_FebHack_HE) – hosted by Amazon  
+\- [Alexa Skill building documentation](https://developer.amazon.com/docs/custom-skills/request-and-response-json-reference.html&sc_channel=Referrals&sc_campaign=VirtualHack_HE_Feb&sc_publisher=HE&sc_content=VirtualHackPromo&sc_funnel=Discover&sc_country=IN&sc_medium=HEPromos&sc_segment=IndiaDevs&sc_trackingcode=REF_IN_FebHack_HE) – learn more technicalities of skill building   
+\- [Alexa developer forum](https://forums.developer.amazon.com/index.html) – hosted by Amazon  
 \- [Alexa Skills Store US](https://www.amazon.com/b?node=13727921011) – check out existing skills in the US skill store, new arrivals, skill categories, and customer reviews.  
 \- [Alexa Skills Store IN](https://amazon.in/skills) – check out existing skills in the IN skill store, new arrivals, skill categories, and customer reviews.
 
 **Tools**  
-\- [Alexa Skills Kit Command Line Interface (ASK CLI)](https://developer.amazon.com/docs/smapi/quick-start-alexa-skills-kit-command-line-interface.html)  
-\- [Bespoken CLI (Develop, Debug, and Test Live on Your Laptop)](https://bespoken.io/alexa-skills/)  
-\- [Skillinator (prototype Alexa Skills for Alexa Skills Kit SDK for JavaScript / Node.js (Lambda))](https://skillinator.io/)
+\- [Alexa Skills Kit Command Line Interface (ASK CLI)](https://developer.amazon.com/docs/smapi/quick-start-alexa-skills-kit-command-line-interface.html) - The Alexa Skills Kit Command Line Interface (ASK CLI) is a tool for you to manage your Alexa skills and related resources, such as AWS Lambda functions. With ASK CLI, you have access to the Skill Management API, which allows you to manage Alexa skills programmatically from the command line.  
+\- [Bespoken CLI (Develop, Debug, and Test Live on Your Laptop)](https://bespoken.io/)  
 
 **Developer Perks**  
 \- [AWS Promotional Credits](https://developer.amazon.com/alexa-skills-kit/alexa-aws-credits)  
